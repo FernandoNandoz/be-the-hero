@@ -45,4 +45,4 @@ A 11º Semana Omnistack produzida com muita dedicação e carinho pela Rocketsea
 
 ---
 
-<p align="center">Feito com muito orgulho por<strong>Fernando Damasceno :wave: </p>
+<p align="center">Atenciosamente, <strong>Fernando Damasceno :wave: </p>
